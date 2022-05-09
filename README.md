@@ -11,37 +11,51 @@
 ![Dep. of Comp. Sci.](https://feng.takushoku-u.ac.jp/albums/abm00014693.jpg)
 
 ## <span style="color: green; ">３つのコース</span>
+
 ##### ２年次からコースを選択し、専門的な学びを深めます。
+
 -  システムエンジニアリングコース
 - インターネット＆セキュリティコース
 - 知能情報コース
+
 ## システムエンジニアリングコース
 
 1. *プログラミングによって時代の求める新しい情報システムを作る*
+
 1. プログラミングを基礎から学び、自在にコンピュータを制御するソフトウェアや情報システムの設計技術を修得していきます。モバイルシステムのような身近なものから“富岳”のようなスーパーコンピュータを使う大規模かつ高度なものまで、時代に必要とされる情報システムを創造するエンジニアを育成します。
 
-![Dep. of Comp. Sci.](https://feng.takushoku-u.ac.jp/albums/abm00014679.jpg)![Dep. of Comp. Sci.](https://feng.takushoku-u.ac.jp/albums/abm00014693.jpg)
+![Dep. of Comp. Sci.](https://feng.takushoku-u.ac.jp/albums/abm00014679.jpg)
+![Dep. of Comp. Sci.](https://feng.takushoku-u.ac.jp/albums/abm00014693.jpg)
 
 
 [:sparkles:システムエンジニアリングコース](https://feng.takushoku-u.ac.jp/composition/cs.html#anchor01)
 
 ### インターネット＆セキュリティコース
+
 1. *安全で安心できる持続的な情報社会を支えるネットワークとセキュリティを学ぶ*
 
 1. 昨今の情報化社会は、私たちの暮らしをとても豊かなものにしてきましたが、その一方で、これまでにはみられなかった様々な脅威が発生しています。それらから私たちの暮らしを守り、安全で安心できる情報社会を構築するために、ネットワーク技術や情報セキュリティ対策などについて学びます。
 
-![Dep. of Comp. Sci.](https://feng.takushoku-u.ac.jp/albums/abm00014680.jpg)![Dep. of Comp. Sci.](https://feng.takushoku-u.ac.jp/albums/abm00014709.jpg)
+![Dep. of Comp. Sci.](https://feng.takushoku-u.ac.jp/albums/abm00014680.jpg)
+
+![Dep. of Comp. Sci.](https://feng.takushoku-u.ac.jp/albums/abm00014709.jpg)
+
 [:sparkles:インターネット＆セキュリティコース](https://feng.takushoku-u.ac.jp/composition/cs.html#anchor02)
 
 ### 知能情報コース
+
 1. *「モノ」と「コト」の未来へ
 AIの先を拓く*
 1. あらゆるモノがネットワークに繋がるIoT、さまざまなコトに繋げるビッグデータ解析や人工知能は、既に私たち人間にとって日常の一部になっています。これらの知識・技術を基礎から応用まで学び、目覚しく変化する情報社会の新しい今後を創り出す専門家の育成を目指します。
 
-![Dep. of Comp. Sci.](https://feng.takushoku-u.ac.jp/albums/abm00014710.jpg)![Dep. of Comp. Sci.](https://feng.takushoku-u.ac.jp/albums/abm00014708.jpg)
+![Dep. of Comp. Sci.](https://feng.takushoku-u.ac.jp/albums/abm00014710.jpg)
+
+![Dep. of Comp. Sci.](https://feng.takushoku-u.ac.jp/albums/abm00014708.jpg)
+
 [:sparkles:知能情報コース](https://feng.takushoku-u.ac.jp/composition/cs.html#anchor03)
 
 ### 研究室
+
 | 研究内容 | 教員 |
 | :--- | :--- |
 | 教育工学 | 佐々木 整 教授 |
