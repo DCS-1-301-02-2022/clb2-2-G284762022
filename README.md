@@ -28,7 +28,7 @@
 ![Dep. of Comp. Sci.](https://feng.takushoku-u.ac.jp/albums/abm00014693.jpg)
 
 
-[　: sparkles :　システムエンジニアリングコース](https://feng.takushoku-u.ac.jp/composition/cs.html#anchor01)
+[　:sparkles:　システムエンジニアリングコース](https://feng.takushoku-u.ac.jp/composition/cs.html#anchor01)
 
 ### インターネット＆セキュリティコース
 
@@ -40,7 +40,7 @@
 
 ![Dep. of Comp. Sci.](https://feng.takushoku-u.ac.jp/albums/abm00014709.jpg)
 
-[　: sparkles :　インターネット＆セキュリティコース](https://feng.takushoku-u.ac.jp/composition/cs.html#anchor02)
+[　:sparkles:　インターネット＆セキュリティコース](https://feng.takushoku-u.ac.jp/composition/cs.html#anchor02)
 
 ### 知能情報コース
 
@@ -52,7 +52,7 @@ AIの先を拓く*
 
 ![Dep. of Comp. Sci.](https://feng.takushoku-u.ac.jp/albums/abm00014708.jpg)
 
-[　: sparkles :　知能情報コース](https://feng.takushoku-u.ac.jp/composition/cs.html#anchor03)
+[　:sparkles:　知能情報コース](https://feng.takushoku-u.ac.jp/composition/cs.html#anchor03)
 
 ### 研究室
 
